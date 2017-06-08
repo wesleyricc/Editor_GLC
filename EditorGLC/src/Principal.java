@@ -206,9 +206,17 @@ public class Principal extends javax.swing.JFrame {
         VectorProducoes = Producoes.split("\n");
         VectorSimbolos = Simbolos.split(",");
 
-       
+        String[] auxSimb;
+        String[] auxProd;
+        
+        /*for (int i = 0; i < VectorProducoes.length; i++) {
+            
+            if(VectorProducoes[i+1] == "-"){
+              for(int j=0; j<)  
+            }
+            
+        }*/
 
-           
 
     }//GEN-LAST:event_botaoSalvarActionPerformed
 
